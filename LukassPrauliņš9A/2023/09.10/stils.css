@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(29, 29, 29);
+    color: rgb(0, 0, 0);
+  }
+  
+  .title {
+    color: rgb(255, 0, 0);
+  }
+  
+  div {
+    background-color: rgb(255, 145, 0);
+    color: rgb(20, 20, 20);
+  }
